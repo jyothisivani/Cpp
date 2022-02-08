@@ -5,7 +5,7 @@ using namespace std;
    
 int main() 
 { 
-    string str = "Renu Sreeja"; 
+    string str = "Jyothi Sivani"; 
      
     stringstream s(str);  
     string word; 
